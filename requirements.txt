@@ -1,0 +1,18 @@
+# EDA core
+numpy
+pandas
+scipy
+
+# Visualizations
+matplotlib
+seaborn
+
+# Tabular ML
+scikit-learn
+xgboost
+lightgbm
+catboost
+
+# Utils
+tqdm
+joblib
